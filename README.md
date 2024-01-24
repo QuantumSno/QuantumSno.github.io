@@ -1,7 +1,7 @@
 personal portfolio website
 
 
-based off the [html5up prologue template](https://html5up.net/prologue)
+should have links if someone wants to find me
 
 
 catch it at www.quantumsno.com
